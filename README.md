@@ -8,7 +8,15 @@
 项目介绍博客：https://blog.csdn.net/Jeff_zjf/article/details/107535329
 
 # 环境安装
-运行 ./install_require.sh ,安装所需要的软件包
+pip install gensim
+
+pip install torch torchtext
+
+pip install word2vec
+
+pip install xlrd>=0.9.0
+
+pip install bs4
 
 # 下载数据模型
 百度云盘：https://pan.baidu.com/s/1Z88bmTh14eptERjmY7DmDg，提取码：4kwi
