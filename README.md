@@ -10,7 +10,7 @@
 # 环境安装
 pip install gensim
 
-pip install torch torchtext
+pip install torch torchtext # 不同平台上安装脚本可能不同，需查询https://pytorch.org/
 
 pip install word2vec
 
